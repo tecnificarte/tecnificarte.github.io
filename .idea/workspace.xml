@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d5e8bd-62d6-43f9-b318-2bf3b2e2115e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tecnificarte.github.io.iws" />
@@ -28,7 +29,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="25" selection-start="805" selection-end="805" vertical-scroll-proportion="0.23570596" vertical-offset="138" max-vertical-offset="3859">
+            <state line="42" column="82" selection-start="1529" selection-end="1529" vertical-scroll-proportion="0.67211205" vertical-offset="138" max-vertical-offset="3859">
               <folding>
                 <element signature="n#style#0;n#img#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -279,7 +280,11 @@
       <created>1403208013665</created>
       <updated>1403208013665</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="TEC-60&#10;">
+      <created>1403208618333</created>
+      <updated>1403208618333</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -546,7 +551,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="25" selection-start="805" selection-end="805" vertical-scroll-proportion="0.23570596" vertical-offset="138" max-vertical-offset="3859">
+        <state line="42" column="82" selection-start="1529" selection-end="1529" vertical-scroll-proportion="0.67211205" vertical-offset="138" max-vertical-offset="3859">
           <folding>
             <element signature="n#style#0;n#img#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
