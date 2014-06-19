@@ -260,13 +260,13 @@ form {
   margin-bottom: 8px;
   color: #474747;
 } 
- 
+ /*
 #main-content h3:before {
   content: "///";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -2em;
-}
+}*/
 
 #main-content h4 {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
@@ -389,6 +389,7 @@ footer a:hover {
   header h2 {
     font-size: 30px;
   }
+
   #main-content {
     width: 490px;
   }
@@ -402,6 +403,7 @@ footer a:hover {
     padding-right: 0;
     margin-left: 0;
   }
+
 }
 
 /* All Mobile Sizes (devices and browser) */
@@ -470,6 +472,7 @@ footer a:hover {
     padding-right: 0;
     margin-left: 0;
   }
+
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
