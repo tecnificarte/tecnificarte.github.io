@@ -1,12 +1,294 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/assets/css/style-blue3.css" line="0" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="58d5e8bd-62d6-43f9-b318-2bf3b2e2115e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/Sin t¡tulo-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/anz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/avatar230.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/avatar370.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/back_menubar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/back_profile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/back_services.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/bx_loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/client.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/client2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/client4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/client5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/client6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/coming_back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e-mac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_img5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_iphonec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_macbook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_product1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_product2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_product3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_product4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/e_product5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/headers/hdd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/headers/hdi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/headers/hdl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/headers/hld.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/headers/hli.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/headers/hll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/hp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/image-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/image-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/image-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/image-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/image-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/image-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/img_full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/intel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/colors/blue3/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/colors/blue3/logo50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo50_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/colors/blue3/logo_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo_raw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo_raw_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/m1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/m11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/m12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/m2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/m4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/m9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/mac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/macpro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/maxis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/microsoft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/n1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/headers/nd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/headers/ni.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/headers/nl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/nokia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/office1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/office2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/office3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/office4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/pre2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/pre3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/preload.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/profile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/samsung.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/slide_back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/sony.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/t1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/t2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/t3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/t4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/t5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/t6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/team.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/thumb-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/thumb-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/thumb-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/thumb-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/thumb-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/thumb-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/w1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/w10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/w11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/w12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/w2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/w3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/w4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/w5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/w6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/w7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/w8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/w9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/wf1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/wf2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/wf3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo/wf4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/carousels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/circles.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/coming.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/coming2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/commerce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/e-commerce_product.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/holder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/home_full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/home_inverse_navbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/home_login_full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/home_profile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/home_services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/html5shiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/jquery.bxslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.bxslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.countdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.mixitup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/lightbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/page_charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/portfolio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/preload.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shAutoloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushAS3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushAppleScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushBash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushCSharp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushColdFusion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushCpp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushCss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushDelphi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushDiff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushErlang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushGroovy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushJScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushJava.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushJavaFX.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushPerl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushPhp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushPlain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushPowerShell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushPython.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushRuby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushSass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushScala.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushSql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushVb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shBrushXml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shCore.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shCoreDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shCoreDjango.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shCoreEclipse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shCoreEmacs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shCoreFadeToGrey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shCoreMDUltra.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shCoreMidnight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shCoreRDark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/syntaxhighlighter/shLegacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shThemeDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shThemeDjango.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shThemeEclipse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shThemeEmacs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shThemeFadeToGrey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shThemeMDUltra.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shThemeMidnight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntaxhighlighter/shThemeRDark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/slidebars.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/slidebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/style-blue3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/styleswitcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/width-boxed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/width-full.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/wow.min.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Alogimex_Totalsoftware.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/BMV_Totalsoftware.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Bursatec_Totalsoftware.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/CPT_Totalsoftware.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/G.Chiapas_Totalsoftware.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/GNP_Totalsoftware.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ICA_Totalsoftware.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/INgrooves_Totalsoftware.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Marriot_Totalsoftware.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/SFP_Totalsoftware.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Takasago_Totalsoftware.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Tralcom_Totalsoftware.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/UniversidadAméricas.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/body-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/chente.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/download-button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/github-button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/highlight-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mauricio.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sidebar-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/params.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/pygment_trac.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tecnificarte.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,24 +308,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="67" selection-start="2114" selection-end="2114" vertical-scroll-proportion="0.34855235" vertical-offset="347" max-vertical-offset="2985">
-              <folding>
-                <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#2;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.6848552" vertical-offset="1995" max-vertical-offset="4620">
+              <caret line="174" column="33" selection-start-line="174" selection-start-column="33" selection-end-line="174" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,13 +329,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="2560" />
@@ -87,7 +358,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -99,7 +370,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -128,161 +398,201 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tecnificarte.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tecnificarte.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="liveEdit" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="name" value="Dart" />
-      <option name="saveOutputToFile" value="false" />
-      <option name="showConsoleOnStdErr" value="false" />
-      <option name="showConsoleOnStdOut" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="CHROME" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <option name="name" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="58d5e8bd-62d6-43f9-b318-2bf3b2e2115e" name="Default" comment="" />
       <created>1403111196224</created>
+      <option name="number" value="Default" />
       <updated>1403111196224</updated>
     </task>
     <task id="LOCAL-00001" summary="Cambio titulo">
       <created>1403111427769</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
       <updated>1403111427769</updated>
     </task>
     <task id="LOCAL-00002" summary="Cambio titulo&#10;">
       <created>1403112156555</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
       <updated>1403112156555</updated>
     </task>
     <task id="LOCAL-00003" summary="En tanto Decidimos el Diseño y contenido Final">
       <created>1403140307913</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
       <updated>1403140307913</updated>
     </task>
     <task id="LOCAL-00004" summary="En tanto Decidimos el Diseño y contenido Final&#10;">
       <created>1403140979047</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
       <updated>1403140979047</updated>
     </task>
     <task id="LOCAL-00005" summary="Checo updates&#10;">
       <created>1403141977711</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
       <updated>1403141977711</updated>
     </task>
     <task id="LOCAL-00006" summary="Checo updates&#10;">
       <created>1403142001842</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
       <updated>1403142001842</updated>
     </task>
     <task id="LOCAL-00007" summary="TEC-54">
       <created>1403143488343</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
       <updated>1403143488343</updated>
     </task>
     <task id="LOCAL-00008" summary="TEC-59">
       <created>1403144262589</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
       <updated>1403144262589</updated>
     </task>
     <task id="LOCAL-00009" summary="TEC-58">
       <created>1403144385009</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
       <updated>1403144385009</updated>
     </task>
     <task id="LOCAL-00010" summary="TEC-55">
       <created>1403145505730</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
       <updated>1403145505730</updated>
     </task>
     <task id="LOCAL-00011" summary="TEC-55&#10;">
       <created>1403145739641</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
       <updated>1403145739641</updated>
     </task>
     <task id="LOCAL-00012" summary="Solo corrección de duplicados">
       <created>1403146217177</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
       <updated>1403146217177</updated>
     </task>
     <task id="LOCAL-00013" summary="TEC-60">
       <created>1403201830563</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
       <updated>1403201830563</updated>
     </task>
     <task id="LOCAL-00014" summary="TEC-60&#10;">
       <created>1403208013665</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
       <updated>1403208013665</updated>
     </task>
     <task id="LOCAL-00015" summary="TEC-60&#10;">
       <created>1403208618333</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
       <updated>1403208618333</updated>
     </task>
     <task id="LOCAL-00016" summary="TEC-60&#10;">
       <created>1403208725781</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
       <updated>1403208725781</updated>
     </task>
     <task id="LOCAL-00017" summary="TEC-60&#10;">
       <created>1403208779011</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
       <updated>1403208779011</updated>
     </task>
     <task id="LOCAL-00018" summary="TEC-60&#10;">
       <created>1403209092773</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
       <updated>1403209092773</updated>
     </task>
     <task id="LOCAL-00019" summary="TEC-60&#10;">
       <created>1403209289782</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
       <updated>1403209289782</updated>
     </task>
     <task id="LOCAL-00020" summary="Actualice competencias">
       <created>1406858086324</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
       <updated>1406858086324</updated>
     </task>
     <option name="localTasksCounter" value="21" />
@@ -292,28 +602,32 @@
     <frame x="2560" y="22" width="1920" height="1058" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.171875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.171875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -345,263 +659,40 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="50" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3345">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="0" selection-start="4937" selection-end="4937" vertical-scroll-proportion="0.0" vertical-offset="1950" max-vertical-offset="3420">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="25" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="3859">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="212" column="14" selection-start="3758" selection-end="3758" vertical-scroll-proportion="0.0" vertical-offset="3604" max-vertical-offset="8313" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="25" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="3859">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="212" column="14" selection-start="3758" selection-end="3758" vertical-scroll-proportion="0.0" vertical-offset="3604" max-vertical-offset="8313" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="104" selection-start="951" selection-end="951" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="3859">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="212" column="14" selection-start="3758" selection-end="3758" vertical-scroll-proportion="0.0" vertical-offset="3604" max-vertical-offset="8313" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="0" selection-start="2464" selection-end="2464" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="3876">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="284" column="2" selection-start="5002" selection-end="5002" vertical-scroll-proportion="0.0" vertical-offset="4828" max-vertical-offset="8313" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="21" selection-start="2936" selection-end="2936" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3893">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="25" selection-start="1185" selection-end="1208" vertical-scroll-proportion="0.0" vertical-offset="884" max-vertical-offset="8296" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="99" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="3128">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="7" selection-start="3467" selection-end="3467" vertical-scroll-proportion="0.0" vertical-offset="647" max-vertical-offset="2142">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/pygment_trac.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="55" selection-start="2847" selection-end="2850" vertical-scroll-proportion="0.39494833" vertical-offset="404" max-vertical-offset="1275" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/print.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="30" selection-start="76" selection-end="77" vertical-scroll-proportion="0.019517796" vertical-offset="0" max-vertical-offset="3927" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/mauricio.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="212" column="14" selection-start="3758" selection-end="3758" vertical-scroll-proportion="0.0" vertical-offset="3604" max-vertical-offset="8313" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="896" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="910">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style-blue3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27006507" vertical-offset="51126" max-vertical-offset="99600">
+          <caret line="3425" column="65" selection-start-line="3425" selection-start-column="65" selection-end-line="3425" selection-end-column="65" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="67" selection-start="2114" selection-end="2114" vertical-scroll-proportion="0.34855235" vertical-offset="347" max-vertical-offset="2985">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#0;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#table#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.6848552" vertical-offset="1995" max-vertical-offset="4620">
+          <caret line="174" column="33" selection-start-line="174" selection-start-column="33" selection-end-line="174" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
   </component>
 </project>
-
